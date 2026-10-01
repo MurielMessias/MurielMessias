@@ -1,60 +1,140 @@
 <div align="center">
-  <img height="250" src="https://github.com/DarkSidarael/DarkSiderael/assets/155545873/c91d4436-7920-48c3-8c48-b7b23919ed27"/>
+
+# Muriel Messias
+
+### Computer Engineering Student · Software Developer · Technology Enthusiast
+
+<p>
+  <a href="https://www.linkedin.com/in/muriel-messias-1280b0302/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/DarkSidarael">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/murih_el/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
 </div>
 
-###
+---
+
+## 👨‍💻 About Me
+
+I'm a **Computer Engineering student** interested in software development, technology, automation and digital products.
+
+I enjoy building applications from idea to implementation, working across **frontend, backend, databases and infrastructure**.
+
+- 🎓 Studying **Computer Engineering**
+- 💻 Focused on **Software Development**
+- 🚀 Building and experimenting with digital products
+- 🧠 Currently improving my knowledge of **software architecture, cloud and backend development**
+- 🔬 Interested in **AI, automation, robotics and emerging technologies**
+- 🌎 Based in **Brazil**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python" />
+</p>
+
+### Frontend & Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,expo" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,supabase,firebase,postgres" />
+</p>
+
+### Tools & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,linux,vscode" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### Ominify
+
+**Marketplace for local services**
+
+A digital platform designed to connect clients with professionals, allowing users to discover services, communicate, schedule appointments and manage payments.
+
+**Tech:** React · React Native · Supabase · Google Maps API
+
+---
+
+### Living On
+
+**Smart Home & Automation**
+
+An automation ecosystem focused on connecting smart devices and creating centralized home-control experiences.
+
+**Tech:** Home Assistant · IoT · Tuya · APIs
+
+---
+
+### TAC — Teoria da Atualização Coerente
+
+**Computational physics & theoretical research**
+
+A computational research project exploring mathematical models involving complex fields, informational fields and emergent interaction laws.
+
+**Tech:** Python · NumPy · SciPy · Jupyter
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-    
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muriel-messias-1280b0302/)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/murih_el/)
- 
 
-###
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DarkSidarael&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkSidarael&layout=compact&theme=github_dark&hide_border=true" />
+
 </div>
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40" alt="html logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40" alt="js logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="40" alt="node logo"  />
-  
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+## 🔥 Contribution Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 
+<img src="https://streak-stats.demolab.com?user=DarkSidarael&theme=github-dark-blue&hide_border=true" />
 
+</div>
 
+---
 
-###
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/muriel-messias-1280b0302/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/DarkSidarael">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+*"Building ideas into technology."*
+
+</div>
