@@ -1,10 +1,7 @@
-
-
 # Muriel Messias
 
 ### Computer Engineering Student · Software Developer · Technology Enthusiast
-<img width="320" height="180" alt="Image" src="https://github.com/user-attachments/assets/67ac648f-dd21-4f90-91ad-4279e1178b8d" />
-<p>
+<img width="512" height="288" alt="Image" src="https://github.com/user-attachments/assets/f4158d43-7955-4c0e-ac6d-66a229ec9259" />
   <a href="https://www.linkedin.com/in/muriel-messias-1280b0302/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
