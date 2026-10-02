@@ -1,6 +1,4 @@
-<div> <a src=``><div>
-  
-  <div align="center">
+<img width="320" height="180" alt="Image" src="https://github.com/user-attachments/assets/67ac648f-dd21-4f90-91ad-4279e1178b8d" />
 
 # Muriel Messias
 
