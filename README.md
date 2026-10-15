@@ -96,9 +96,9 @@ A computational research project exploring mathematical models involving complex
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DarkSidarael&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MurielMessias&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkSidarael&layout=compact&theme=github_dark&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurielMessias&&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
@@ -108,7 +108,7 @@ A computational research project exploring mathematical models involving complex
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=DarkSidarael&theme=github-dark-blue&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=MurielMessias&&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
