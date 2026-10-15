@@ -2,6 +2,10 @@
 
 ### Computer Engineering Student · Software Developer · Data Analyst
 
+  <a href="https://murielmessias.github.io/portifolio_data_analyst/">
+  <img src="https://img.shields.io/badge/Portf%C3%B3lio-1E1D26?style=for-the-badge" alt="Portfolio ">
+</a>
+ </a>
   <a href="https://www.linkedin.com/in/muriel-messias-1280b0302/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
